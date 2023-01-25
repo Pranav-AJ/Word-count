@@ -16,7 +16,7 @@ Use split() function to get a list of words in the line.
 ### Step 5: 
 Add the number of words using a variable
 ### Step 6: 
-Arint the number of words
+Print the number of words
 ## PROGRAM:
 ```python
 '''
